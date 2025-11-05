@@ -13,13 +13,42 @@ Gosto muito da área de análise de dados e programação, e estou sempre buscan
 </p>
 
 
-Áreas de conhecimento:
+### 🤖 Linguagens e Tecnologias
 
--💻 Desenvolvimento em **Java e Python**, aplicando boas práticas e aprimorando minha lógica de programação
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+           Desenvolvimento em **Java e Python**, aplicando boas práticas e aprimorando minha lógica de programação
 
--🗃️ **Banco de dados**, com foco em modelagem, consultas e integração com sistemas
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />**Banco de dados**, com foco em modelagem, consultas e integração com sistemas
 
--📊 **Análise de dados com Power BI**, criando dashboards e visualizações voltadas à tomada de decisão 
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" 
+/>**Análise de dados com Power BI**, criando dashboards e visualizações voltadas à tomada de decisão 
+
+
 
 
 ---
