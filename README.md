@@ -1,16 +1,40 @@
-## Hi there 👋
+# Daniel Lourenço Lustosa
 
-<!--
-**DanielCScience/DanielCScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Daniel Lourenço Lustosa, tenho 19 anos e sou de Brasília, Distrito Federal.
+Concluí o ensino médio no Instituto Educacional Santo Elias e atualmente estou cursando Ciência da Computação no UniCEUB.
+Gosto muito da área de análise de dados e programação, e estou sempre buscando aprender mais para me desenvolver profissionalmente e aplicar o que aprendo em projetos reais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCScience&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre os cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCScience&layout=compact&theme=tokyonight"/>
+</p>
+
+
+Áreas de conhecimento:
+
+-💻 Desenvolvimento em **Java e Python**, aplicando boas práticas e aprimorando minha lógica de programação
+
+-🗃️ **Banco de dados**, com foco em modelagem, consultas e integração com sistemas
+
+-📊 **Análise de dados com Power BI**, criando dashboards e visualizações voltadas à tomada de decisão 
+
+
+---
+
+## 📫 Contato
+- ✉️ Email: daniel.lustosa19@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielcscience/)  
+- 🐙 [GitHub](https://github.com/DanielCScience)  
+
+---
+
+### 🔗 Redes Sociais
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) 
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.lustosa19.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcscience/)
