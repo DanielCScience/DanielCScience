@@ -9,7 +9,6 @@ Gosto muito da área de análise de dados e programação, e estou sempre buscan
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCScience&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre os cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCScience&layout=compact&theme=tokyonight"/>
 </p>
 
 
