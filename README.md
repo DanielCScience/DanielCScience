@@ -1,68 +1,89 @@
-# Daniel Lourenço Lustosa
-
-Olá, meu nome é Daniel Lourenço Lustosa, tenho 19 anos e sou de Brasília, Distrito Federal.
-Concluí o ensino médio no Instituto Educacional Santo Elias e atualmente estou cursando Ciência da Computação no UniCEUB.
-Gosto muito da área de análise de dados e programação, e estou sempre buscando aprender mais para me desenvolver profissionalmente e aplicar o que aprendo em projetos reais.
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Olá+Meu+Nome+é%2C+I'm+Daniel+Lourenço+%F0%9F%91%8B)]
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielCScience&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre os cards -->
+  <b>Desenvolvedor Backend em formação • Java • Spring Boot • Python • SQL •PowerBI</b>
 </p>
 
+---
 
-### 🤖 Linguagens e Tecnologias
+### 👨‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-           Desenvolvimento em **Java e Python**, aplicando boas práticas e aprimorando minha lógica de programação
+Sou um **Desenvolvedor Backend** em formação com foco em **Java, Spring Boot, SQL(oracle) e area de gestão de pessoas**, criando soluções escaláveis, performáticas e bem estruturadas. Tenho experiência prática no desenvolvimento de sistemas, domínio em estruturas de dados e algoritmos, além de conhecimento em Git.
 
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />**Banco de dados**, com foco em modelagem, consultas e integração com sistemas
+Atualmente, curso **Ciência da Computação** no **UniCeub**, 
 
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" 
-/>**Análise de dados com Power BI**, criando dashboards e visualizações voltadas à tomada de decisão 
+---
 
+### 🧠 Tecnologias
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="C++" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Docker" />
+      <br>Oracle
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" height="48" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="96">
+      <img src="ima" width="48" height="48" alt="Swagger" />
+      <br>PowerBI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JUnit5" />
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/331335/cisco.svg" width="48" height="48" alt="Cisco" />
+      <br>Pessoas
+    </td>
+  </tr>
+</table>
+
+---
 
 
 
 ---
+### 💼 Estou em busca de...
 
-## 📫 Contato
-- ✉️ Email: daniel.lustosa19@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/danielcscience/)  
-- 🐙 [GitHub](https://github.com/DanielCScience)  
+> Oportunidades como **Desenvolvedor Backend Júnior** ou **Estágio em Desenvolvimento Java**, com foco em projetos reais, aprendizado contínuo e ambiente de equipe.
+
+✅ Disponível para trabalho **Remoto ou Presencial (BSB)** ✅ Forte interesse em **Java + Spring Boot** ✅ Comprometido com **qualidade de código, organização e boas práticas**
 
 ---
 
-### 🔗 Redes Sociais
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.lustosa19.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcscience/)
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| **
+| **
+| **
+
+---
+
+### 📫 Contato
