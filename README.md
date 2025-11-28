@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Olá+Meu+Nome+é%2C+I'm+Daniel+Lourenço+%F0%9F%91%8B)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Olá+Meu+Nome+é+%2C+Daniel+Lourenço+%F0%9F%91%8B)
 
 <p align="center">
   <b>Desenvolvedor Backend em formação • Java • Spring Boot • Python • SQL •PowerBI</b>
