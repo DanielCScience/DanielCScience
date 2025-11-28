@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um **Desenvolvedor Backend** em formação com foco em **Java, Spring Boot, SQL(oracle) e area de gestão de pessoas**, criando soluções escaláveis, performáticas e bem estruturadas. Tenho experiência prática no desenvolvimento de sistemas, domínio em estruturas de dados e algoritmos, além de conhecimento em Git.
+Sou um **Desenvolvedor Backend** em formação com foco em **Java, Spring Boot, SQL(MYSQL)**, criando soluções escaláveis, performáticas e bem estruturadas. Gosto muito da área de análise de dados e programação, e estou sempre buscando aprender mais para me desenvolver profissionalmente e aplicar o que aprendo em projetos reais.
 
 Atualmente, curso **Ciência da Computação** no **UniCeub**, 
 
@@ -31,10 +31,6 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Docker" />
       <br>Oracle
     </td>
@@ -55,10 +51,6 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JUnit5" />
       <br>MySQL
-    </td>
-     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/331335/cisco.svg" width="48" height="48" alt="Cisco" />
-      <br>Pessoas
     </td>
   </tr>
 </table>
