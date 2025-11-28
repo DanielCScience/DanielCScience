@@ -79,3 +79,8 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
 ---
 
 ### 📫 Contato
+
+### 📫 Contato
+
+- <a href="https://www.linkedin.com/in/danielcscience/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 22px;"></a> — <a href="https://www.linkedin.com/in/danielcscience/" target="_blank">/in/danielcscience</a>
+- <a href="mailto:danie.lustosa19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="height: 22px;"></a> — <a href="mailto:danie.lustosa19@gmail.com" target="_blank">danie.lustosa19@gmail.com</a>
