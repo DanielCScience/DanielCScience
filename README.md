@@ -45,10 +45,6 @@ Atualmente, curso **Ciência da Computação** no **UniCeub**,
       <br>Maven
     </td>
     <td align="center" width="96">
-      <img src="ima" width="48" height="48" alt="Swagger" />
-      <br>PowerBI
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JUnit5" />
       <br>MySQL
     </td>
